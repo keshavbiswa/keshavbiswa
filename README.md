@@ -15,7 +15,7 @@
   </p>
 </p>
 
-![welcome](https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif)
+![welcome](https://media.giphy.com/media/S857VNxM6HwlZuYXrU/giphy.gif)
 
 
 

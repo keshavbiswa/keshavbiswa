@@ -41,3 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=keshavbiswa&show_icons=true&theme=synthwave&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbiswa&layout=compact">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshavbiswa&theme=flat&no-frame=true&margin-h=15" />
+</p>
